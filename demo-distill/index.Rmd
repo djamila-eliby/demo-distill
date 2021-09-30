@@ -2,4 +2,10 @@
 title: "Demo Blog"
 site: distill::distill_website
 listing: posts
+output:
+  distill::distill_article:
+    self_contained: false
+    includes:
+        in_header: assets/header.html
+
 ---

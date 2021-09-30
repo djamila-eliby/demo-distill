@@ -1,9 +1,16 @@
 ---
-title: "About this blog"
-description: |
-  Some additional details about the blog
+title: "about me"
+description: 
+  I'm a PhD Candidate researching the links between diet and mental health, and how the gut microbiota might play a part in this relationship. 
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r, echo = FALSE, include = TRUE, fig.align="center", out.width= "50%"}
+library(knitr)
+knitr::include_graphics("about.jpg")
+```
+
