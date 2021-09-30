@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "about me",
+      "title": "About Me",
       "description": "I'm a PhD Candidate researching the links between diet and mental health, and how the gut microbiota might play a part in this relationship.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-30T21:24:49+10:00"
+      "last_modified": "2021-09-30T21:42:18+10:00"
     },
     {
       "path": "index.html",
