@@ -1,5 +1,5 @@
 ---
-title: "What is Nutritional Psychiatry?"
+title: "What is nutritional psychiatry?"
 categories:
   - Blog
 date: 09-30-2021
@@ -19,7 +19,7 @@ knitr::include_graphics("happy_food.jpg")
 
 Can what we eat really improve our mood?
 
-This is the question that a relatively new field of research is trying to investigate. Nutritional Psychiatry tries to understand how overall dietary patterns - as well as specific foods or food groups - influence our overall mental and brain health [@Sarris2019]. And while most of the existing evidence so far is observational - meaning, we cannot draw any causal inferences from their results - there is a consistent trend for healthy diets protecting against the risk of depressive symptoms over time [@Lassale2018]. Unhealthy diets, on the other hand, may *increase* our risk for depression, although the evidence for this is still rather mixed [@Molendijk2018a].
+This is the question that a relatively new field of research is trying to investigate. Nutritional psychiatry tries to understand how overall dietary patterns - as well as specific foods or food groups - influence our overall mental and brain health [@Sarris2019]. And while most of the existing evidence so far is observational - meaning, we cannot draw any causal inferences from their results - there is a consistent trend for healthy diets protecting against the risk of depressive symptoms over time [@Lassale2018]. Unhealthy diets, on the other hand, may *increase* our risk for depression, although the evidence for this is still rather mixed [@Molendijk2018a].
 
 There are also a growing number of randomised controlled trials, which is the strongest form of evidence for cause and effect, showing that adhering to healthy diets can improve symptoms of depression in the general population [@Firth2019a] as well as in individuals with more severe forms of depression [@Jacka2017a]. However, we still have a long way to go before we can definitively prescribe particular diets to people with diagnosed depression. For instance, we are currently still in the process of understanding *how* exactly diet may confer effects on our mental health, which will be the topic of a separate blog post. Associations with anxiety are also much less researched, even though anxiety and depression often co-occur at very high rates!
 
