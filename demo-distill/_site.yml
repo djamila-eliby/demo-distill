@@ -13,7 +13,8 @@ navbar:
       href: index.html#category:Blog
     - text: "Recipes"
       href: index.html#category:Recipes
-
+    - text: "Published Work"
+      href: published.html
 output:
   distill::distill_article:
     theme: theme.css

@@ -1,0 +1,31 @@
+---
+title: "Published Work"
+description: A collection of scientific publications and research reports
+bibliography: reference.bib
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+  display: none;
+}
+```
+
+<br>
+
+### Publications
+
+* Bugs and Brains, the Gut and Mental Health Study: a mixed-methods study investigating microbiota composition and function in anxiety, depression and irritable bowel syndrome [@Simpson2021]
+
+* Decoding explicit and implicit representations of health and taste attributes of foods in the human brain [@Schubert2021]
+
+* The gut microbiota in anxiety and depression – a systematic review [@Simpson2021a]
+
+### Research Reports
+
+* [The microbiota and our mental health](https://pursuit.unimelb.edu.au/articles/the-microbiota-and-our-mental-health)
+
+* [How to maintain a healthy biome in a Covid-19 world](https://pursuit.unimelb.edu.au/articles/how-to-maintain-a-healthy-biome-in-a-covid-19-world) 
+
