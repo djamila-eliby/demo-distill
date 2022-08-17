@@ -1,5 +1,5 @@
 ---
-title: "What exactly is healthy eating anyway?"
+title: "Principles of Healthy Eating"
 categories:
   - Blog
 date: 11-15-2021
@@ -17,5 +17,30 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r, echo = FALSE}
 knitr::include_graphics("healthy_plate.jpg")
 ```
+
+<font size="2">*Please note that the following information does not constitute dietary advice as it does not take into account your individual dietary needs. Please consult a dietitian or health care practitioner if you have any concerns.*</font>
+
+We all know that we have to eat healthily to maintain our optimal physical health, and now we are beginning to understand that it's important for our mental health too. But what exactly does healthy eating look like? The World Health Organisation (WHO) defines a [healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet) as the intake of fruits, vegetables, legumes (which include beans and lentils), nuts, and whole grains (unrefined grains including oats, wheat, and brown rice).
+
+Other great sources for evidence-based information on healthy eating are country-specific dietary guidelines. These nutritional guidelines are developed by governmental institutions and are aimed at educating the general public on how to eat for optimal health, and to prevent chronic non-communicable diseases, such as type 2 diabetes, cardiovascular diseases, and cancers. An important caveat is that these educational tools are not developed with every individual in mind, which means that certain groups of people may need special dietary advice (e.g., those with a medical condition, or the frail elderly).
+
+<center><font size="8">~</font></center>
+
+In Australia, the most recent [Dietary Guidelines](https://www.eatforhealth.gov.au/guidelines) were published in 2013 and are centered around 5 key principles:
+
+*1. Physical activity and choosing enough nutritious food and drinks to meet your energy needs for achieving and maintaining a healthy weight*
+
+*2. Enjoying a wide variety of nutritious foods daily from the five key food groups: vegetables, fruit, grains, lean animal- and plant-derived protein, and mostly fat-reduced dairy products*
+
+*3. Limiting the consumption of discretionary foods containing excess saturated fat, salt, and sugar, as well as alcohol*
+
+*4. Encouraging, supporting, and promoting breastfeeding*
+
+*5. Caring for your food, which including preparing and storing it safely*
+
+<center><font size="8">~</font></center>
+
+More detailed information about each of the different [food groups](https://www.eatforhealth.gov.au/food-essentials/five-food-groups) and recommended serving sizes according to age and sex can be found [here](https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day/serve-sizes).
+
 
 <font size="2">Image credit: Brooke Lark on Unsplash</font>
