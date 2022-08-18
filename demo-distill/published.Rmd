@@ -17,6 +17,8 @@ d-title {
 
 ### Publications
 
+* How can we combat the obesity epidemic? [@Eliby2022]
+
 * Bugs and Brains, the Gut and Mental Health Study: a mixed-methods study investigating microbiota composition and function in anxiety, depression and irritable bowel syndrome [@Simpson2021]
 
 * Decoding explicit and implicit representations of health and taste attributes of foods in the human brain [@Schubert2021]
