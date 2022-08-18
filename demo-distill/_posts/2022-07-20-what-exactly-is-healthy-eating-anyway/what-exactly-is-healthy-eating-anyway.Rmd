@@ -1,5 +1,5 @@
 ---
-title: "Principles of Healthy Eating"
+title: "Principles of healthy eating"
 categories:
   - Blog
 date: 11-15-2021

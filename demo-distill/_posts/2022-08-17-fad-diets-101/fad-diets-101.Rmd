@@ -1,0 +1,27 @@
+---
+title: "Fad diets 101"
+categories:
+  - Blog
+date: 02-04-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("fad_diet.jpg")
+```
+
+- What is a fad diet?
+
+- Examples of common fad diets
+
+- How to look out for one?
+
+
+<font size="2">Image credit: Diana Polekhina on Unsplash</font>
