@@ -4,28 +4,28 @@
     "title": "Fad diets 101",
     "description": {},
     "author": [],
-    "date": "2022-01-15",
+    "date": "2022-02-04",
     "categories": [
       "Blog"
     ],
-    "contents": "\r\n\r\n\r\n\r\nImage credit: Diana Polekhina on Unsplash\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\n\r\nFad diets are all over popular media these days. A diet that promises\r\nto help you miraculously shed 5 kilos in a week. A diet that claims to\r\ncleanse and detox your body in the hopes of supporting your overall\r\nhealth. And on and on the list goes…\r\nExamples of popular (and controversial) fad diets in the past:\r\nRaw Foods Diet\r\nAlkaline Diet\r\nCabbage Soup Diet\r\nSubway Diet\r\nWhile fad diets often gain lots of popularity and traction with the\r\ngeneral public because they offer a quick and easy fix to various health\r\nconcerns, they are generally not based on any solid empirical evidence.\r\nAnd what’s more, these types of diets could even be potentially harmful\r\nbecause they often cut out whole food groups or restrict caloric intake\r\nand other important nutrients (e.g. juice diet). If you need a reminder\r\nof what a well-balanced daily intake of the core food groups looks like,\r\nthen check out this food\r\nselection guide provided by the Australian dietary guidelines.\r\nSo how can you stay informed and look out for fad diet promises? For\r\none, fad diets or any kind of ‘miracle’ supplements or products are\r\noften endorsed by celebrities, influencers, and other organisations that\r\nhave no qualification in dietetics or nutrition. Their claims are also\r\ntypically accompanied by emotionally-laden or dramatic statements that\r\nare refuted by the scientific community - such as strong recommendations\r\nmade from the conclusions of a single study. If you ever have the\r\nfeeling like something sounds too good to be true, it most likely is!\r\nSpeak to a dietician/nutritionist or other health care professional if\r\nyou ever have any doubt.\r\nImage credit: Diana Polekhina on Unsplash\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-08-17-fad-diets-101/fad_diet.jpg",
-    "last_modified": "2022-08-17T22:39:26+10:00",
-    "input_file": {}
+    "last_modified": "2022-08-19T12:15:45+10:00",
+    "input_file": "fad-diets-101.knit.md"
   },
   {
     "path": "posts/2022-08-18-blueberry-porridge/",
-    "title": "Easy breakfast - blueberry porridge",
+    "title": "Blueberry porridge",
     "description": {},
     "author": [],
     "date": "2022-01-15",
     "categories": [
       "Recipes"
     ],
-    "contents": "\r\n\r\n\r\n\r\nIn need of a quick, easy, and healthy breakfast option? Look no\r\nfurther!\r\nThis delicious, nutrient-dense, and budget-friendly meal is how I\r\nstart every single day. It helps to keep me full and gives me a slow but\r\nsteady release of energy throughout the morning. Oats are a great source\r\nof dietary fibres and other bioactive compounds that have been linked to\r\nnumerous\r\nhealth benefits, such as lowering cholesterol and reducing the blood\r\nglucose response after eating. Also, the soluble fibre in oats (called\r\nbeta-glucans) have prebiotic effects, which means they help to feed the\r\nbeneficial microbes in the gut.\r\nThe blueberries in this recipe pack a further punch with their\r\nbeneficial phytochemical\r\nproperties and heavy anti-oxidant and anti-inflammatory benefits.\r\nFinally, the walnuts and chia seeds are rich in omega-3 fatty acids\r\n(among other minerals and fibres) which are involved in a wide range of\r\nimportant processes related to the growth\r\nand functioning of our brain, as well as to maintain healthy\r\ncognition and mood. So, there’s no reason not to tuck in!\r\nIngredients:\r\n1/4 cup rolled oats\r\n1/4 cup quick oats\r\n1/4 tsp ground cinnamon\r\n1/4 cup frozen (or fresh) blueberries\r\n3/4 cup milk of choice (e.g., dairy, soy, oat milk)\r\n1/2 tsp chia seeds\r\nHandful of walnuts\r\nSteps:\r\nCombine the rolled oats, quick oats, blueberries (if frozen), and\r\ncinnamon in a microwave safe bowl\r\nAdd the milk and stir in well\r\nMicrowave on a high setting (800-1000W) for 1.5 - 2 minutes\r\nStir well and sprinkle on chia seeds and walnuts on top (and if\r\nusing fresh blueberries, add at this point)\r\nEnjoy!\r\nNote. If you like your porridge to be a bit sweeter, add in a\r\nsweetener of choice, like a drizzle of honey or sprinkle of stevia. Also\r\nfeel free to swap out the blueberries for another berry or fruit to keep\r\nit interesting!\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\n\r\nIn need of a quick, easy, and healthy breakfast option? Look no\r\nfurther!\r\nThis delicious, nutrient-dense, and budget-friendly meal is how I\r\nstart every single day. It helps to keep me full and gives me a slow but\r\nsteady release of energy throughout the morning. Oats are a great source\r\nof dietary fibres and other bioactive compounds that have been linked to\r\nnumerous\r\nhealth benefits, such as lowering cholesterol and reducing the blood\r\nglucose response after eating. Also, the soluble fibre in oats (called\r\nbeta-glucans) have prebiotic effects, which means they help to feed the\r\nbeneficial microbes in the gut.\r\nThe blueberries in this recipe pack a further punch with their\r\nbeneficial phytochemical\r\nproperties and heavy anti-oxidant and anti-inflammatory benefits.\r\nFinally, the walnuts and chia seeds are rich in omega-3 fatty acids\r\n(among other minerals and fibres) which are involved in a wide range of\r\nimportant processes related to the growth\r\nand functioning of our brain, as well as to maintain healthy\r\ncognition and mood. So, there’s no reason not to tuck in!\r\nIngredients:\r\n1/4 cup rolled oats\r\n1/4 cup quick oats\r\n1/4 tsp ground cinnamon\r\n1/4 cup frozen (or fresh) blueberries\r\n2/3 cup milk of choice (e.g., dairy, soy, oat milk)\r\n1/2 tsp chia seeds\r\nHandful of walnuts\r\nSteps:\r\nCombine the rolled oats, quick oats, blueberries (if frozen), and\r\ncinnamon in a microwave safe bowl\r\nAdd the milk and stir in well\r\nMicrowave on a high setting (800-1000W) for 1.5 - 2 minutes\r\nStir well and sprinkle on chia seeds and walnuts on top (and if\r\nusing fresh blueberries, add at this point)\r\nEnjoy!\r\nNote. If you like your porridge to be a bit sweeter, add in a\r\nsweetener of choice, like a drizzle of honey or sprinkle of stevia. Also\r\nfeel free to swap out the blueberries and walnuts for another berry or\r\nnut to keep it interesting!\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-08-18-blueberry-porridge/Recipe.png",
-    "last_modified": "2022-08-18T23:20:37+10:00",
-    "input_file": {}
+    "last_modified": "2022-08-19T12:18:30+10:00",
+    "input_file": "blueberry-porridge.knit.md"
   },
   {
     "path": "posts/2022-07-20-what-exactly-is-healthy-eating-anyway/",

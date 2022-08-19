@@ -17,11 +17,17 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("fad_diet.jpg")
 ```
 
-- What is a fad diet?
+Fad diets are all over popular media these days. A diet that promises to help you miraculously shed 5 kilos in a week. A diet that claims to cleanse and detox your body in the hopes of supporting your overall health. And on and on the list goes...
 
-- Examples of common fad diets
+Examples of popular (and controversial) fad diets in the past:
 
-- How to look out for one?
+* Raw Foods Diet 
+* Alkaline Diet
+* Cabbage Soup Diet
+* Subway Diet
 
+While fad diets often gain lots of popularity and traction with the general public because they offer a quick and easy fix to various health concerns, they are generally not based on any solid empirical evidence. And what's more, these types of diets could even be potentially harmful because they often cut out whole food groups or restrict caloric intake and other important nutrients (e.g. juice diet). If you need a reminder of what a well-balanced daily intake of the core food groups looks like, then check out this [food selection guide](https://www.eatforhealth.gov.au/guidelines/australian-guide-healthy-eating) provided by the Australian dietary guidelines.
+
+So how can you stay informed and look out for fad diet promises? For one, fad diets or any kind of 'miracle' supplements or products are often endorsed by celebrities, influencers, and other organisations that have no qualification in dietetics or nutrition. Their claims are also typically accompanied by emotionally-laden or dramatic statements that are refuted by the scientific community - such as strong recommendations made from the conclusions of a single study. If you ever have the feeling like something sounds too good to be true, it most likely is! Speak to a dietician/nutritionist or other health care professional if you ever have any doubt.
 
 <font size="2">Image credit: Diana Polekhina on Unsplash</font>
