@@ -8,6 +8,8 @@ links:
     url: "https://twitter.com/dj_eliby"
   - label: Email
     url: "mailto:djamila.eliby@unimelb.edu.au"
+navbar:
+  search: false
 description: |
   Some additional details about the blog
 output:

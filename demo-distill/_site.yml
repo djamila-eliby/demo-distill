@@ -15,9 +15,11 @@ navbar:
       href: index.html#category:Recipes
     - text: "Published Work"
       href: published.html
+  search: false
 output:
   distill::distill_article:
     theme: theme.css
 collections:
   posts:
     authors_metadata: false
+    
