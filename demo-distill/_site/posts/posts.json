@@ -14,7 +14,21 @@
     "input_file": "fad-diets-101.knit.md"
   },
   {
-    "path": "posts/2022-07-20-what-exactly-is-healthy-eating-anyway/",
+    "path": "posts/2022-01-15-blueberry-porridge/",
+    "title": "Blueberry porridge",
+    "description": {},
+    "author": [],
+    "date": "2022-01-15",
+    "categories": [
+      "Recipes"
+    ],
+    "contents": "\r\n\r\n\r\n\r\nIn need of a quick, easy, and healthy breakfast option? Look no\r\nfurther!\r\nThis delicious, nutrient-dense, and budget-friendly meal is how I\r\nstart every single day. It helps to keep me full and gives me a slow but\r\nsteady release of energy throughout the morning. Oats are a great source\r\nof dietary fibres and other bioactive compounds that have been linked to\r\nnumerous\r\nhealth benefits, such as lowering cholesterol and reducing the blood\r\nglucose response after eating. Also, the soluble fibre in oats (called\r\nbeta-glucans) have prebiotic effects, which means they help to feed the\r\nbeneficial microbes in the gut.\r\nThe blueberries in this recipe pack a further punch with their\r\nbeneficial phytochemical\r\nproperties and heavy anti-oxidant and anti-inflammatory benefits.\r\nFinally, the walnuts and chia seeds are rich in omega-3 fatty acids\r\n(among other minerals and fibres) which are involved in a wide range of\r\nimportant processes related to the growth\r\nand functioning of our brain, as well as to maintain healthy\r\ncognition and mood. So, there’s no reason not to tuck in!\r\nIngredients:\r\n1/4 cup rolled oats\r\n1/4 cup quick oats\r\n1/4 tsp ground cinnamon\r\n1/4 cup frozen (or fresh) blueberries\r\n2/3 cup milk of choice (e.g., dairy, soy, oat milk)\r\n1/2 tsp chia seeds\r\nHandful of walnuts\r\nSteps:\r\nCombine the rolled oats, quick oats, blueberries (if frozen), and\r\ncinnamon in a microwave safe bowl\r\nAdd the milk and stir in well\r\nMicrowave on a high setting (800-1000W) for 1.5 - 2 minutes\r\nStir well and sprinkle on chia seeds and walnuts on top (and if\r\nusing fresh blueberries, add at this point)\r\nEnjoy!\r\nNote. If you like your porridge to be a bit sweeter, add in a\r\nsweetener of choice, like a drizzle of honey or sprinkle of stevia. Also\r\nfeel free to swap out the blueberries and walnuts for another berry or\r\nnut to keep it interesting!\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-15-blueberry-porridge/Recipe.png",
+    "last_modified": "2022-08-19T12:39:54+10:00",
+    "input_file": "blueberry-porridge.knit.md"
+  },
+  {
+    "path": "posts/2021-11-15-principles-of-healthy-eating/",
     "title": "Principles of healthy eating",
     "description": {},
     "author": [],
@@ -23,9 +37,9 @@
       "Blog"
     ],
     "contents": "\r\n\r\n\r\n\r\nPlease note that the following information does\r\nnot constitute dietary advice as it does not take into account your\r\nindividual dietary needs. Please consult a dietitian or health care\r\npractitioner if you have any concerns.\r\nWe all know that we have to eat healthily to maintain our optimal\r\nphysical health, and now we are beginning to understand that it’s\r\nimportant for our mental health too. But what exactly does healthy\r\neating look like? The World Health Organisation (WHO) defines a healthy\r\ndiet as the intake of fruits, vegetables, legumes (which include\r\nbeans and lentils), nuts, and whole grains (unrefined grains including\r\noats, wheat, and brown rice).\r\nOther great sources for evidence-based information on healthy eating\r\nare country-specific dietary guidelines. These nutritional guidelines\r\nare developed by governmental institutions and are aimed at educating\r\nthe general public on how to eat for optimal health, and to prevent\r\nchronic non-communicable diseases, such as type 2 diabetes,\r\ncardiovascular diseases, and cancers. An important caveat is that these\r\neducational tools are not developed with every individual in mind, which\r\nmeans that certain groups of people may need special dietary advice\r\n(e.g., those with a medical condition, or the frail elderly).\r\n\r\n~\r\n\r\nIn Australia, the most recent Dietary Guidelines\r\nwere published in 2013 and are centered around 5 key principles:\r\n1. Physical activity and choosing enough nutritious food and\r\ndrinks to meet your energy needs for achieving and maintaining a healthy\r\nweight\r\n2. Enjoying a wide variety of nutritious foods daily from the\r\nfive key food groups: vegetables, fruit, grains, lean animal- and\r\nplant-derived protein, and mostly fat-reduced dairy products\r\n3. Limiting the consumption of discretionary foods containing\r\nexcess saturated fat, salt, and sugar, as well as alcohol\r\n4. Encouraging, supporting, and promoting breastfeeding\r\n5. Caring for your food, which including preparing and storing it\r\nsafely\r\n\r\n~\r\n\r\nMore detailed information about each of the different food\r\ngroups and recommended serving sizes according to age and sex can be\r\nfound here.\r\nImage credit: Brooke Lark on Unsplash\r\n\r\n\r\n\r\n",
-    "preview": "posts/2022-07-20-what-exactly-is-healthy-eating-anyway/healthy_plate.jpg",
-    "last_modified": "2022-08-18T23:28:03+10:00",
-    "input_file": {}
+    "preview": "posts/2021-11-15-principles-of-healthy-eating/healthy_plate.jpg",
+    "last_modified": "2022-08-19T12:40:15+10:00",
+    "input_file": "what-exactly-is-healthy-eating-anyway.knit.md"
   },
   {
     "path": "posts/2021-09-30-intro-to-nutritional-psychiatry/",
