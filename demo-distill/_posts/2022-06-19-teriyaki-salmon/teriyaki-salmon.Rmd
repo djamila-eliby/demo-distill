@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, echo = FALSE}
-knitr::include_graphics("Recipe Template.png")
+knitr::include_graphics("Recipe_Template.png")
 ```
 
 This is one of my all time favourite meals that I absolutely devour every time. A very simple, quick, and nutritious lunch or dinner that contains a serving of salmon, buckwheat soba noodles, and plenty of greens!

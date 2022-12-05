@@ -1,5 +1,5 @@
 ---
-title: "Papaya brekkie bowl"
+title: "Papaya Brekkie Bowl"
 categories:
   - Recipes
 date: 2022-10-10
@@ -15,10 +15,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, echo = FALSE}
-knitr::include_graphics("Recipe Template.png")
+knitr::include_graphics("papaya_img.png")
 ```
 
-Here's another really quick and easy breakfast idea - perfect for the warm summer months ahead in the southern hemisphere! Papaya is one of my favourite tropical fruits - not only is it delicous, but it packs a heavy punch in terms of its nutritional properties! Rich in Vitamins A, C, and E, and a number of beneficial phytochemicals (i.e., chemical compounds produced by plants)[@Ikram2015], papaya consumption has been linked to various health benefits, including digestive and immune modulation. [@Heena2019]
+Here's another really quick and easy breakfast idea - perfect for the warm summer months ahead in the southern hemisphere! Papaya is one of my favourite tropical fruits - not only is it delicious, but it packs a heavy punch in terms of its nutritional properties! Rich in Vitamins A, C, and E, and a number of beneficial phytochemicals (i.e., chemical compounds produced by plants)[@Ikram2015], papaya consumption has been linked to various health benefits, including digestive and immune modulation. [@Heena2019]
 
 Speaking of digestion - some types of yogurt containing live, active cultures may be beneficial for your gut health! Research has shown that regular consumption of yogurt and other fermented foods containing beneficial strains, such as *Bifidobacteria* and *Lactobacillus*, is associated with improved intestinal and extraintestinal health [@Kok2018]. Yogurt is also rich in calcium, various B vitamins, and other trace minerals that are important for health - just beware of yogurts that are laden with too much sugar!
 

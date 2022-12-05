@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, echo = FALSE}
-knitr::include_graphics("Grocery store.jpg")
+knitr::include_graphics("Grocery_store.jpg")
 ```
 
 Cookies. Chips. Instant noodles. Sweets. Sodas.Sweet breads...what do all these foods have in common?
