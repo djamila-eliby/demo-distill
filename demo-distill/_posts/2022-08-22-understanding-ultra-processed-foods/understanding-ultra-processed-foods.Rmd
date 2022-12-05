@@ -1,0 +1,35 @@
+---
+title: "Understanding Ultra-Processed Foods"
+categories:
+  - Blog
+date: 08-21-2022
+csl: vancouver-superscript.csl
+bibliography: UPF_Def.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("Grocery store.jpg")
+```
+
+Cookies. Chips. Instant noodles. Sweets. Sodas.Sweet breads...what do all these foods have in common?
+
+The first thing that probably comes to mind is the fact that these are foods which should be eaten in moderation, in line with the principles set out by the [Australian dietary guidelines](https://www.eatforhealth.gov.au/sites/default/files/2022-09/n55a_australian_dietary_guidelines_summary_131014_1.pdf). This is because discretionary foods are typically high in sugar, saturated and trans fats, salt, and/or alcohol - often displacing more nutritious foods and resulting in a nutritionally deficient diet [@Monteiro2019]. However, beyond this, they are also classified as Ultra-Processed Foods (UPFs) which are defined by the NOVA food classification system as:
+
+### "Ready-to-consume industrial formulations of homogenised cheap ingredients obtained from high-yield crops, notably sugars and syrups, refined starches, oils and fats, protein isolates, and also sometimes from remnants of intensively reared animals. Such formulations are made to look, smell, and taste good or often irresistible, by use of sophisticated combinations of flavours, colours, emulsifiers, sweeteners, thickeners and other additives that have a cosmetic function" [@Monteiro2019, p.91]
+
+The consumption of UPFs has skyrocketed in the last several decades and has coincided with a trend towards diets that are associated with higher rates of obesity and non-communicable diseases all around the world. [@Lawrence2019] What's more, rather than simply displacing healthy food intake, UPFs seem to have a direct effect on health-related outcomes [@Dicken2022], including mental health risk. [@Lane2022] Beyond the unhealthy properties of UPFs, what makes these foods particularly detrimental is the fact that they contain little to no intact food, are very energy-dense, typically have high glycemic loads, and can be formulated to be quasi-addictive. [@Monteiro2019]
+
+So how can you spot an ultra-processed food?
+Firstly, fresh vegetables, fruit, starchy roots and tubers, pasteurised milk and chilled meat (as well as various plant oils, sugar, and salt) are not ultra-processed. [@Monteiro2019] Secondly, an easy way to identify if something is ultra-processed is by how it is packaged and if the ingredients list contains at least one item that would not ordinarily be used in a kitchen or classes of additives which include flavours, flavour enhancers, colours, emulsifiers, sweeteners, and thickeners. To find out more about additives, see these further resources for the [US](https://www.fao.org/gsfaonline/%20additives/results.html) and [Australia](https://www.foodstandards.gov.au/consumer/additives/additiveoverview/Pages/default.aspx).
+
+
+<font size="2">Image credit: Fikri Rasyid on Unsplash</font>
+
