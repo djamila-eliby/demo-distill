@@ -1,5 +1,5 @@
 ---
-title: "Understanding Ultra-Processed Foods"
+title: "Understanding ultra-processed foods"
 categories:
   - Blog
 date: 08-21-2022
@@ -21,7 +21,7 @@ knitr::include_graphics("Grocery_store.jpg")
 
 Cookies. Chips. Instant noodles. Sweets. Sodas. Sweet breads...what do all these foods have in common?
 
-The first thing that probably comes to mind is the fact that these are foods which should be eaten in moderation, in line with the principles set out by the [Australian dietary guidelines](https://www.eatforhealth.gov.au/sites/default/files/2022-09/n55a_australian_dietary_guidelines_summary_131014_1.pdf). This is because discretionary foods are typically high in sugar, saturated and trans fats, salt, and/or alcohol - often displacing more nutritious foods and resulting in a nutritionally deficient diet [@Monteiro2019]. However, beyond this, they are also classified as Ultra-Processed Foods (UPFs) which are defined by the NOVA food classification system as:
+The first thing that probably comes to mind is the fact that these are foods which should be eaten in moderation, in line with the principles set out by the [Australian dietary guidelines](https://www.eatforhealth.gov.au/sites/default/files/2022-09/n55a_australian_dietary_guidelines_summary_131014_1.pdf). This is because discretionary foods are typically high in sugar, saturated and trans fats, salt, and/or alcohol - often displacing more nutritious foods and resulting in a nutritionally deficient diet. [@Monteiro2019] However, beyond this, they are also classified as Ultra-Processed Foods (UPFs) which are defined by the NOVA food classification system as:
 
 ### "Ready-to-consume industrial formulations of homogenised cheap ingredients obtained from high-yield crops, notably sugars and syrups, refined starches, oils and fats, protein isolates, and also sometimes from remnants of intensively reared animals. Such formulations are made to look, smell, and taste good or often irresistible, by use of sophisticated combinations of flavours, colours, emulsifiers, sweeteners, thickeners and other additives that have a cosmetic function" [@Monteiro2019, p.91]
 
