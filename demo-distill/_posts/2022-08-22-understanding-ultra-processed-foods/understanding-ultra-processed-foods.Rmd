@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("Grocery_store.jpg")
 ```
 
-Cookies. Chips. Instant noodles. Sweets. Sodas.Sweet breads...what do all these foods have in common?
+Cookies. Chips. Instant noodles. Sweets. Sodas. Sweet breads...what do all these foods have in common?
 
 The first thing that probably comes to mind is the fact that these are foods which should be eaten in moderation, in line with the principles set out by the [Australian dietary guidelines](https://www.eatforhealth.gov.au/sites/default/files/2022-09/n55a_australian_dietary_guidelines_summary_131014_1.pdf). This is because discretionary foods are typically high in sugar, saturated and trans fats, salt, and/or alcohol - often displacing more nutritious foods and resulting in a nutritionally deficient diet [@Monteiro2019]. However, beyond this, they are also classified as Ultra-Processed Foods (UPFs) which are defined by the NOVA food classification system as:
 
