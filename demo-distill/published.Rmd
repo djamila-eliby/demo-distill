@@ -17,6 +17,8 @@ d-title {
 
 ### Publications
 
+* Does the gut microbiota hold the key to the obesity crisis? A perspective piece [@Eliby2022a]
+
 * How can we combat the obesity epidemic? [@Eliby2022]
 
 * Bugs and Brains, the Gut and Mental Health Study: a mixed-methods study investigating microbiota composition and function in anxiety, depression and irritable bowel syndrome [@Simpson2021]
