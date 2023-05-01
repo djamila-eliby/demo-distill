@@ -1,0 +1,25 @@
+---
+title: "Microbes and mood"
+categories:
+  - Blog
+date: 2023-04-30
+csl: vancouver-superscript.csl
+bibliography: mood_and_microbes.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("food_and_mood.png")
+```
+
+It may seem surprising to think that the collection of microbes residing in our gastrointestinal tract - in other words, our gut microbiome - has anything to do with our mood and emotional processing. However, emerging research on the gut-brain axis [@Foster2013], a bidirectional communication highway connecting the brain and gut, suggests that we need to pay attention to the rest of our body. Our enteric nervous system, also known as our 'second brain', can function independently from the central nervous system. In fact, did you know that the gut contains about as many neurons as a cat's brain? (200-600 million neurons, to be exact!)[@Gareau2014] This vastly complex organ functions to regulate the body's digestive processes, including motility, secretion, absorption, and blood flow.[@Gareau2014
+
+Importantly, we now know that the gut microbiome plays a critical role in regulating the gut-brain axis through various neural, hormonal, metabolic, and immune-related mechanisms.[@Foster2013] For instance, gut bacteria are known to secrete various neurotransmitters (such as serotonin, the 'feel good' hormone[@Strandwitz2018]), proteins (such as brain-derived neurotrophic factor, essential for learning and memory[@OSullivan2011]), and other molecules which are important for mood and affective processing. Gut bacteria are also thought to be involved in regulating the hypothalamic-pituitary-adrenal (HPA) axis [@Foster2017a] - our central stress response system. A dysregulated HPA axis has been linked to anxiety and depression, and is typically associated with higher levels of stress and inflammatory mediators that can cause a pro-inflammatory state in the body and, in turn, contribute to the risk of mental health disorders [@Keller2017].
+
+In relation to this, recent studies have shown that individuals with anxiety or depression have differing gut microbiome compositions compared to controls. In particular, it's been shown that there are more pro-inflammatory bacteria in people with these mental health conditions, as well as lower levels of bacteria known to exert anti-inflammatory properties [@Simpson2021a]. Watch out for another post where we will do a deep dive into the mechanisms behind gut microbiota and mental health, and delve into recent research showing how our diets could potentially protect our mental health!
