@@ -29,8 +29,7 @@ In fact, the gut microbiome (i.e., the ecoystem of microbes and their genes resi
 - Protecting against pathogens
 - Regulating host immunity
 
-Gut dysiosis (i.e. a disturbance of the gut microbiome) can disrupt these mechanisms and has been linked to various diseases, including inflammatory bowel disease, diabetes, asthma, allergies, and even autism [@Petersen2014]. We are also beginning to find links between the gut microbiome and mental health! Look out for a future post where we will do a deep dive on the connection between microbes and mood, and how nutrition fits into the puzzle!
-
+Gut dysiosis (i.e. a disturbance of the gut microbiome) can disrupt these mechanisms and has been linked to various diseases, including inflammatory bowel disease, diabetes, asthma, allergies, and even autism [@Petersen2014]. We are also beginning to find links between the gut microbiome and mental health! Check out this more recent [post](https://www.feedinghappy.com/posts/2023-04-29-microbes-and-mood/) where we look further into the connection between the gut microbiome and mental health!
 
 <font size="2">Image credit: CDC on Unsplash</font>
 
