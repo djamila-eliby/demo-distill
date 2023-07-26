@@ -29,9 +29,9 @@ h1 {
 
 Hi there! Welcome to my blog.
 
-My name is Djamila and I'm currently in the final year of my PhD. I am investigating how diet is associated with mental and gastrointestinal health, and the gut microbiota - the ecosystem of microbes residing within our guts
+My name is Djamila and I'm currently working as a postdoctoral research fellow at the Melbourne School of Psychological Sciences (University of Melbourne). During my PhD, I investigated the relationships between diet, mental and gastrointestinal health, and the gut microbiota - the ecosystem of microbes residing within our guts
 
-The study that I've been working on for the last several years is called [Bugs and Brains: The Gut and Mental Health Study](https://psychologicalsciences.unimelb.edu.au/research/research-initiatives/our-work/bugs-and-brains). It is the world's first study to compare the physiological and microbial profiles of healthy adults to those with irritable bowel syndrome (IBS), anxiety and depression, and those with comorbid IBS and anxiety/depression
+The study that I've worked on for the last several years is called the [Bugs and Brains: The Gut and Mental Health Study](https://psychologicalsciences.unimelb.edu.au/research/research-initiatives/our-work/bugs-and-brains). It is the world's first study to compare the physiological and microbial profiles of healthy adults to those with irritable bowel syndrome (IBS), anxiety and depression, and those with comorbid IBS and anxiety/depression
 
 I am passionate about all things food and how we can eat to feel well physically and mentally - how to feed *(feel)* happy 
 
