@@ -17,6 +17,8 @@ d-title {
 
 ### Publications
 
+* Associations between diet quality and anxiety and depressive disorders: a systematic review (in press)
+
 * Does the gut microbiota hold the key to the obesity crisis? A perspective piece [@Eliby2022a]
 
 * How can we combat the obesity epidemic? [@Eliby2022]
