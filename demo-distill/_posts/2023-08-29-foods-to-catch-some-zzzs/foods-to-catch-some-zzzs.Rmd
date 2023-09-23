@@ -1,0 +1,56 @@
+---
+title: "Foods to catch some Zzzs"
+categories:
+  - Blog
+date: 2023-08-29
+csl: vancouver-superscript.csl
+bibliography: sleep.bib
+preview: sleepy_cat.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("sleepy_cat.jpg")
+```
+
+We all know that a good night's sleep is important not only for our physical health but also for our mood and general well-being. As someone who often struggles with sleep, I can only attest to how frustrated and grumpy I feel when I don't get my 8 or so hours of shut-eye. What's worse, it is known that poor sleep quality is associated with a greater caloric intake, worse diet quality overall, and excess body weight which is thought to be driven by alterations in appetite hormones and a greater sensitivity to food reward [@Chaput2014]. 
+
+On the other hand, a growing body of research suggests that a higher intake of fresh, minimally processed foods is associated with a lower prevalence of poor sleep quality, while ultra-processed foods (UPFs) are linked to increased sleep disturbances in both adolescents [@Sousa2020] and adults [@Andreeva2023]. Therefore, the link between sleep and diet seems to be bidirectional in nature and can quickly lead to a vicious cycle where poor sleep perpetuates an unhealthy diet which, in turn, exacerbates issues with sleep.
+
+The way diet influences sleep is believed to be due to its effect on neuroendocrine responses (like serotonin, noradrenaline, and histamine) and the processes causing neuro-inflammation that change brain function through the gut-brain axis [@Godos2021]. Specifically, melatonin, a hormone which plays a crucial role in regulating our sleep-wake cycle, is derived solely from serotonin which relies on its precursor - an amino acid known as tryptophan [@Zuraikat2021]. Dietary sources of tryptophan, serotonin, and melatonin, including dairy, fish, fruits, and vegetables, are known to support better sleep [@Zuraikat2021]. Some specific examples of these foods include:
+
+
+**Tryptophan:**
+
+* Dairy 
+* Fish and other seafood
+* Red meats and poultry
+* Eggs
+* Grains
+* Legumes (including soy-based products)
+* Nuts and seeds
+
+**Serotonin:**
+
+* Fruits and vegetables (plantain, pineapple, banana, kiwi, plums, tomatoes)
+* Nuts (black/English walnuts, pecans)
+
+**Melatonin:**
+
+* Grains and starches
+* Fruits and vegetables (tomatoes, strawberries, ginger, tart cherries)
+* Nuts (almonds and walnuts)
+
+On the other hand, caffeine should be avoided later in the day as it can delay sleep onset and slow wave sleep, while alcohol - though it may help you fall asleep faster - can disrupt the later sleep stages and lead to a less restorative sleep overall [@Garcia2015]. We also known that eating too close to bed time is negatively associated with sleep quality [@Crispim2011] so try to leave a few hours between your final meal/snack and the time you go to bed. Watch out for a future recipe post where I'll share my favourite evening snack to help me catch those Zzzs.
+
+
+
+
+<font size="2">Image credit: Kate Stone Matheson on Unsplash</font>
